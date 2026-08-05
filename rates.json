@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-21",
+  "stand": "2026-08-03",
   "quelle": "Kassenmeldungen 2025/26; kanonisch: GKV-Spitzenverband Krankenkassenliste (§242 Abs. 5 SGB V)",
   "zusatzDefault": 2.9,
   "kkCheapest": {
@@ -65,7 +65,7 @@
     ],
     [
       "IKK classic",
-      3.4
+      3.85
     ],
     [
       "hkk Krankenkasse",
